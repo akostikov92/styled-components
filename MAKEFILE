@@ -13,3 +13,5 @@
 # yarn add reselect
 
 # yarn add redux-persist
+
+# yarn add react-stripe-checkout
