@@ -15,3 +15,5 @@
 # yarn add redux-persist
 
 # yarn add react-stripe-checkout
+
+# yarn add styled-components
